@@ -1,0 +1,45 @@
+
+###What does this do?
+
+The device is just a PCB which breaks out the pins on the headstage 
+cable connector used by the TDT electrodes that are compatable with 
+the PZ2 series amplifiers. 
+
+###Who owns this?
+
+This project uses the copywrited pinout for the headstage from TDT. 
+They distribute this information freely but it is not public 
+domain. The symbols and footprints I have created are all released 
+under the GPL license which you will find in gpl.txt. The artwork 
+excluding the pinout is also under that license. 
+
+The footprints, symbols and other art excluding the pinout in 
+this project are free software: you can redistribute it and/or 
+modify it under the terms of the GNU General Public License as 
+published by the Free Software Foundation, either version 2 of 
+the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+My time engineering this project was payed for via our labs core 
+grant from the NIH.
+
+###Who created this?
+
+Evan Foss
+Engineering Department
+Eaton Peabody Lab
+2012
+
+The pinout to the connector is the creation of TDT.
+
+###Where can I find more information on this project?
+
+https://forge.abcd.harvard.edu/gf/project/epl_engineering/wiki/
+
